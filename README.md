@@ -68,6 +68,11 @@ Citing
 If you find this code useful in your research, please consider citing:
 
 ```
-TBC...
+@article{kazhdan2020meme,
+  title={MEME: Generating RNN Model Explanations via Model Extraction},
+  author={Kazhdan, Dmitry and Dimanov, Botty and Jamnik, Mateja and Li{\`o}, Pietro},
+  journal={arXiv preprint arXiv:2012.06954},
+  year={2020}
+}
 ```
 
